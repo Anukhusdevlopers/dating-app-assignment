@@ -15,6 +15,8 @@ REST APIs
 Multer (File Uploads)
 MVC Architecture
 Secure Middleware-based design
+
+
 📁 Project Structure
 /controllers
 /models
@@ -163,7 +165,7 @@ Media Uploads
 Premium Users
 Moderation Logs
 ⚙️ Installation
-git clone <your-github-repo-link>
+git clone https://github.com/Anukhusdevlopers/dating-app-assignment.git
 cd dating-app-backend
 npm install
 🚀 Run Project
